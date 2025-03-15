@@ -50,7 +50,7 @@ __version__ = "0.0.0+auto.0"
 __repo__ = "https://github.com/adafruit/Adafruit_CircuitPython_APDS9960.git"
 
 # Only one address is possible for the APDS9960, no alternates are available
-_APDS9960_I2C_ADDRESS = const(0x39)
+_APDS9960_I2C_ADDRESS = const(0x49)
 _DEVICE_IDS = (const(0xAB), const(0xA8))
 
 # APDS9960_RAM        = const(0x00)
